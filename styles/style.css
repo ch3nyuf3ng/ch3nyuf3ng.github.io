@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(243, 245, 247);
+    font-size: 10px;
+    font-family: "Roboto", "Noto Sans SC", sans-serif;
+    font-optical-sizing: auto;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 0 20px 20px 20px;
+    border: 1px solid azure;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(3, 10, 24);
+    text-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+    font-size: 60px;
+    text-align: center;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    width: 320px;
+    display: block;
+    margin: 0 auto;
+}
